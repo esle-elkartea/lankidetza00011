@@ -1,0 +1,162 @@
+070828 13:47:59 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 13:55:50 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 13:55:52 [Warning] mysql\bin\mysqld.exe: Forcing close of thread 8  user: 'dbroot'
+
+070828 13:55:52 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 13:56:25 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 13:57:40 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 13:57:42 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 13:57:58 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 13:58:22 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 13:58:24 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 13:58:40 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 13:59:41 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 13:59:43 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:00:03 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 14:00:26 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 14:00:28 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:00:42 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 14:01:14 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 14:01:16 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:01:54 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 14:02:39 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 14:02:41 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:03:09 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 14:04:07 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 14:04:09 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:04:25 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 14:05:15 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 14:05:17 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:05:30 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 14:07:22 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 14:07:24 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:07:37 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 14:10:33 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 14:10:35 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:10:50 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 14:16:22 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 14:16:24 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:16:47 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 14:23:12 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 14:23:14 [Warning] mysql\bin\mysqld.exe: Forcing close of thread 13  user: 'dbroot'
+
+070828 14:23:14 [Warning] mysql\bin\mysqld.exe: Forcing close of thread 8  user: 'dbroot'
+
+070828 14:23:14 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070828 14:25:49 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070828 15:00:37 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070828 15:00:37 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070829  8:23:39 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070829  8:36:35 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070829  8:36:37 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070829  8:36:52 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070829  8:41:26 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070829  8:41:28 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070829  8:42:26 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070829  8:58:58 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070829  8:58:58 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070829  9:19:47 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070829  9:20:14 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070829  9:20:14 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070829  9:29:56 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070829 10:43:01 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070829 10:43:03 [Warning] mysql\bin\mysqld.exe: Forcing close of thread 16  user: 'dbroot'
+
+070829 10:43:03 [Warning] mysql\bin\mysqld.exe: Forcing close of thread 11  user: 'dbroot'
+
+070829 10:43:04 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070829 10:57:04 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070829 12:46:13 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070829 12:46:15 [Warning] mysql\bin\mysqld.exe: Forcing close of thread 23  user: 'dbroot'
+
+070829 12:46:15 [Warning] mysql\bin\mysqld.exe: Forcing close of thread 18  user: 'dbroot'
+
+070829 12:46:16 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070829 12:51:30 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070829 12:55:02 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070829 12:55:04 [Warning] mysql\bin\mysqld.exe: Forcing close of thread 7  user: 'dbroot'
+
+070829 12:55:05 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070829 14:37:25 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070829 15:01:28 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070829 15:01:28 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070830 14:07:40 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070830 14:46:33 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070830 14:46:33 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+070831  8:51:18 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070831 13:44:21 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+070831 13:44:23 [Warning] mysql\bin\mysqld.exe: Forcing close of thread 269  user: 'dbroot'
+
+070831 13:44:24 [Note] mysql\bin\mysqld.exe: Shutdown complete
+

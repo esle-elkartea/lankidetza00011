@@ -1,0 +1,314 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	
+}
+.Cabecera {
+	background: #281A70 url(../img/fCabecera.gif) no-repeat right top;
+	height: 75px;
+}
+.fMenu {
+	background: url(../img/fMenu.jpg) repeat-x;
+	height: 25px;
+	
+	border-right: 1px solid #FFFFFF;
+	border-left: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	font: bold 12px Tahoma, Verdana, Arial;
+	color: #281A70;
+	text-align: center;
+	padding-top: 2px;
+}
+
+
+.fMenu a {
+	
+	font: bold 12px Tahoma, Verdana, Arial;
+	color: #281A70;
+	text-decoration:none;
+}
+.FInicio {
+	background: #F7F7F7 url(../img/fondo.jpg) no-repeat right;
+	height: 359px;
+}
+
+
+/*menu*/
+#dropmenudiv{
+	position:absolute;
+	border:1px solid #D4D0C8;
+	border-bottom-width: 0;
+	font:normal 12px Tahoma, Verdana, Arial #666666;
+	line-height:18px;
+	z-index:100;
+}
+
+#dropmenudiv a{
+
+	display: block;
+	border-bottom: 1px solid #D4D0C8;
+	padding: 3px 0 3px 20px;
+	text-decoration: none;
+	font:normal 12px Tahoma, Verdana, Arial ;
+	color:#333333;
+	background: url(../img/Submenu1.gif) no-repeat;
+}
+
+
+
+#dropmenudiv a:hover{ /*hover background color*/
+	background: url(../img/Submenu2.gif) no-repeat;
+}
+
+
+
+
+/*fin menu*/
+
+.Boton {
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #666666;
+	background: url(../img/Boton.jpg) repeat-x;
+	border: 1px solid #CCCCCC;
+	cursor: pointer;
+}
+.BotonAyuda {
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #666666;
+	background: url(../img/BotonAyuda.jpg) no-repeat right;
+	border: 1px solid #CCCCCC;
+	
+}
+.Txt {
+	font: normal 11px Tahoma, Verdana, Arial;
+	color: #666666;
+}
+.TxtAzul {
+	font: normal 11px Tahoma, Verdana, Arial;
+	color: #281A70;
+}
+.TxtAzul a {
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #281A70;
+	text-decoration:none;
+}
+.TxtAzul a:hover {
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #FFBA00;
+}
+.TxtBold {
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #666666;
+}
+.TxtBoldNar {
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #FFBA00;
+}
+
+.MigaPan {
+	font: normal 11px Tahoma, Verdana, Arial;
+	color: #666666;
+	border-bottom: 1px dotted #CCCCCC;
+	padding:4px 0px;
+}
+.spacer10{
+	line-height:10px;
+	height:10px;}
+	
+.spacer8{
+	line-height:8px;
+	height:8px;}
+
+.spacer6{
+	line-height:6px;
+	height:6px;}
+
+.spacer4{
+	line-height:4px;
+	height:4px;}
+
+.spacer2{
+	line-height:2px;
+	height:2px;}
+	
+
+.Caja{
+	border: solid 1px #D4D0C8;
+	background: url(../img/fCaja.jpg) repeat-x left top;
+	
+}
+.input {
+	border: 1px solid #CDC8BE;
+	font: normal 11px Tahoma, Verdana, Arial;
+	color: #333333;
+}
+
+.inputNoEditable {
+	border: 1px solid #CDC8BE;
+	font: normal 11px Tahoma, Verdana, Arial;
+	color: #333333;
+	background:#F5F4EB;
+}
+/*PESTAÑAS*/
+
+.PestActiva1 {
+	background: url(../img/Pest1_1.jpg) no-repeat;
+	width: 5px;
+}
+.PestActiva2 {
+	background:  #FFBC00 url(../img/Pest1_2.jpg) repeat-x;
+	text-align:center;
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #ffffff;
+	padding-top:8px;padding-bottom:8px
+	
+
+}
+
+.PestActiva3 {
+	background: url(../img/Pest1_3.jpg) no-repeat;
+	width: 7px;
+}
+
+.Pest1 {
+	background: url(../img/Pest2_1.jpg) no-repeat;
+	width: 4px;
+}
+.Pest2 {
+	background: url(../img/Pest2_2.jpg) repeat-x;
+	text-align:center;
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #666666;
+	padding-top:8px;
+	padding-bottom:5px
+
+}
+.Pest2 a {
+	
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #666666;
+	text-decoration:none;
+
+}
+
+.Pest3 {
+	background: url(../img/Pest2_3.jpg) no-repeat;
+	width: 7px;
+}
+.BordesTabla{
+	border: solid 1px #D4D0C8;
+}
+th{
+	background:#FFBA00;
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #ffffff;
+	
+}
+.Categoria1{
+	background:#E5E5E5 url(../img/flecha.gif) no-repeat 2px 5px;
+	color:#281A70;
+	font: bold 11px Tahoma, Verdana, Arial;
+	text-transform:uppercase;
+	text-align:left;
+	padding-left:18px;}
+.Fila{
+	border: solid 1px #E5E5E5;
+	color:#666666;
+	font: normal 11px Tahoma, Verdana, Arial;
+	background:#FFFFFF}
+
+.FilaOver {
+	border: solid 1px #E5E5E5;
+	color:#666666;
+	font: normal 11px Tahoma, Verdana, Arial;
+	background:#FFF2D2};
+.Fila1{
+	border: solid 1px #E5E5E5;
+	color:#666666;
+	font: normal 11px Tahoma, Verdana, Arial;
+}
+.Fila1 a{
+	text-decoration:none;
+	color:#666666;
+	font: normal 11px Tahoma, Verdana, Arial;
+}
+.ActividadCerrada{
+	border: solid 1px #E5E5E5;
+	color:#666666;
+	font: normal 11px Tahoma, Verdana, Arial;
+	background:#F6F6F6};
+
+.ActividadCerrada a{
+	text-decoration:none;
+	color:#666666;
+	font: normal 11px Tahoma, Verdana, Arial;
+	background:#F6F6F6};
+	
+.FilaGris{
+	border: solid 1px #E5E5E5;
+	color:#666666;
+	font: normal 11px Tahoma, Verdana, Arial;
+	background:#F6F6F6};
+.FilaGris a{
+	text-decoration:none;
+	color:#666666;
+	font: normal 11px Tahoma, Verdana, Arial;
+	background:#F6F6F6};
+
+
+.PagActivo{
+	background:#FFF2D2;color:#666666;
+	font: bold 11px Tahoma, Verdana, Arial;
+	padding:0 5px;}
+caption{
+	color:#281A70;
+	font: bold 12px Tahoma, Verdana, Arial;
+	text-transform:uppercase;
+	text-align:left;
+
+}
+.Tit{
+	background:#E3E3E3;color:#281A70;
+	font: bold 12px Tahoma, Verdana, Arial;
+	text-align:left;}
+.fBlanco{
+	background:#ffffff;
+	padding:0 3px;
+	margin-left:10px;}
+	
+ul.lista
+{
+	margin: 0;
+	padding:0px;
+	
+		
+}
+
+ul.lista li {
+	list-style:none;
+	background: url(../img/lista.gif) no-repeat 0em 0.4em;
+	padding-left: 0.5em;
+
+	
+}
+
+
+.MenuMaestros a{	
+	border-bottom: 1px solid #D4D0C8;
+	padding: 3px 0 3px 20px;
+		display:block;
+	font:normal 12px Tahoma, Verdana, Arial ;
+	color:#333333;
+	background: url(../img/Submenu1.gif) no-repeat;
+	text-decoration:none;
+	text-align:left}
+.MenuMaestros a:hover{	display:block;
+	background: url(../img/Submenu2.gif) no-repeat;}	
+.Borde1{
+	border-right: dashed 1px #D4D0C8}
+.TitMaestros{
+	font: bold 11px Tahoma, Verdana, Arial;
+	color: #666666;
+	background: url(../img/Boton.jpg) repeat-x;
+	border: 1px solid #CCCCCC;
+	padding: 3px 0px 3px 5px}

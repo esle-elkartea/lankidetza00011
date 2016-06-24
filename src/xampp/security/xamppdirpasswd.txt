@@ -1,0 +1,2 @@
+XAMPP user = administrador
+XAMPP password = pw4dm1n

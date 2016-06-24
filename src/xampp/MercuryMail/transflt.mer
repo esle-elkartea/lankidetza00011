@@ -1,0 +1,60 @@
+# Transaction-level filtering expressions for MercuryS
+# Mercury Mail Transport System, Copyright (c) 1993-2003, David Harris.
+#
+# Each line in this file defines a test that MercuryS should apply at various
+# stages of the SMTP transaction processing phase of mail delivery. Each line
+# has the following general format:
+#
+#   <Operation>, <"Expression">, <Action>[Action]> ["Response"]
+#
+# "operation" can be:
+#    'H' for an expression applied to the client's "HELO" greeting
+#    'S' for an expression applied to the subject line of the message
+#    'R' for an expression applied to each SMTP RCPT command
+#
+# "Expression" is a Mercury regular expression - see the Mercury help on
+# mail filtering rules or content control for the format of a Mercury
+# extended regular expression. The expression must be quoted, and is
+# applied to the entire HELO command.
+#
+# Action is one or more characters indicating the action MercuryS should
+# take when the expression is matched: the first character in the action
+# can be one of the following:
+#    'R' to refuse the transaction
+#    'D' to drop the connection immediately with no error response
+#    'B' to issue an error response then drop the connection immediately.
+#    'L' to log a system message
+#    'X' to exit immediately from rule processing
+#
+# The second character in the action string is optional and can have
+# one of the following values:
+#    'S' to blacklist the host for the next half hour
+#
+# The third character in the action string is optional and can have
+# one of the following values:
+#    'N' if the rule should apply only if the expression does NOT match
+#
+# Note that optional characters can have the value '-' if they are not
+# used... So, if you want to refuse a connection if an expression does not
+# match, but do not want to use short term blacklisting, you would use the
+# action string "R-N".
+#
+# "Response" is an optional response code that MercuryS should return to
+# the client (for the 'R' operator) or the string to log as the system
+# message (for the 'L' operator). It must be quoted, and if it is returned
+# as an error response to the client, then it must start with a 3-digit
+# RFC2821 error response code (we recommend 554 for this).
+#
+# The lines below are examples of the type of thing you can do with
+# transaction-level filtering. In the first example, you should replace
+# "192.156.225.44" with the IP address of the machine where Mercury is
+# running - it's a very common symptom of an address harvester that it
+# will use your own IP address as the parameter to *its* HELO command,
+# and you can treat that as a dead giveaway that the connection is
+# worthless.
+#
+# H, "*192.156.225.44*", R, "554 Get out of here, you worthless scumbag."
+# R, "*honeypot@aphrodite.pmail.gen.nz*", RS, "554 Fraudulent RCPT rejected."
+# S, "*viagra*", D, "'Viagra' encountered in subject line - connection dropped."
+# S, "*vicodin*", R, "554 'Vicodin' encountered in subject line - message refused."
+

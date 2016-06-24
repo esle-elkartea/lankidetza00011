@@ -1,0 +1,14 @@
+25. Juli 2007 XAMPP 1.6.3a
+- Upgrade phpMyAdmin 2.10.3 
+- Upgrade Zend Optimizer 3.3.0
+- Add msvcr71.dll in xampp root folder
+
+13. Juli 2007 XAMPP 1.6.3 Beta 2
+- Upgrade MySQL 5.0.45
+- Upgrade phpMyAdmin 2.10.2 (with new db dump)
+- Upgrade eAccelerator 0.9.5.1 für PHP 5.2
+- Upgrade ADOdb 4.95
+
+05. Juni 2007 XAMPP 1.6.3 Beta 1
+- UPDATE PHP 5.2.3
+- Fix current release Number in the XAMPP Securtiy section

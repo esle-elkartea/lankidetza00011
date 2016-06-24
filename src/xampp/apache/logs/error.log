@@ -1,0 +1,401 @@
+[Tue Aug 28 13:47:51 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:47:51 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:47:53 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:47:53 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:48:00 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 13:48:00 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 13:48:00 2007] [notice] Parent: Created child process 3568
+[Tue Aug 28 13:48:04 2007] [notice] Child 3568: Child process is running
+[Tue Aug 28 13:48:04 2007] [notice] Child 3568: Acquired the start mutex.
+[Tue Aug 28 13:48:04 2007] [notice] Child 3568: Starting 250 worker threads.
+[Tue Aug 28 13:48:04 2007] [notice] Child 3568: Starting thread to listen on port 443.
+[Tue Aug 28 13:48:04 2007] [notice] Child 3568: Starting thread to listen on port 80.
+[Tue Aug 28 13:56:16 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:56:16 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:56:18 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:56:18 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:56:21 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 13:56:21 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 13:56:21 2007] [notice] Parent: Created child process 1748
+[Tue Aug 28 13:56:25 2007] [notice] Child 1748: Child process is running
+[Tue Aug 28 13:56:25 2007] [notice] Child 1748: Acquired the start mutex.
+[Tue Aug 28 13:56:25 2007] [notice] Child 1748: Starting 250 worker threads.
+[Tue Aug 28 13:56:25 2007] [notice] Child 1748: Starting thread to listen on port 443.
+[Tue Aug 28 13:56:25 2007] [notice] Child 1748: Starting thread to listen on port 80.
+[Tue Aug 28 13:57:48 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:57:48 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:57:51 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:57:51 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:57:54 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 13:57:54 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 13:57:54 2007] [notice] Parent: Created child process 3428
+[Tue Aug 28 13:57:58 2007] [notice] Child 3428: Child process is running
+[Tue Aug 28 13:57:58 2007] [notice] Child 3428: Acquired the start mutex.
+[Tue Aug 28 13:57:58 2007] [notice] Child 3428: Starting 250 worker threads.
+[Tue Aug 28 13:57:58 2007] [notice] Child 3428: Starting thread to listen on port 443.
+[Tue Aug 28 13:57:58 2007] [notice] Child 3428: Starting thread to listen on port 80.
+[Tue Aug 28 13:58:30 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:58:30 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:58:34 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:58:34 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:58:37 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 13:58:37 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 13:58:37 2007] [notice] Parent: Created child process 3984
+[Tue Aug 28 13:58:40 2007] [notice] Child 3984: Child process is running
+[Tue Aug 28 13:58:40 2007] [notice] Child 3984: Acquired the start mutex.
+[Tue Aug 28 13:58:40 2007] [notice] Child 3984: Starting 250 worker threads.
+[Tue Aug 28 13:58:40 2007] [notice] Child 3984: Starting thread to listen on port 443.
+[Tue Aug 28 13:58:40 2007] [notice] Child 3984: Starting thread to listen on port 80.
+[Tue Aug 28 13:59:53 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:59:53 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:59:54 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 13:59:54 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 13:59:56 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 13:59:56 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 13:59:56 2007] [notice] Parent: Created child process 464
+[Tue Aug 28 14:00:03 2007] [notice] Child 464: Child process is running
+[Tue Aug 28 14:00:03 2007] [notice] Child 464: Acquired the start mutex.
+[Tue Aug 28 14:00:03 2007] [notice] Child 464: Starting 250 worker threads.
+[Tue Aug 28 14:00:03 2007] [notice] Child 464: Starting thread to listen on port 443.
+[Tue Aug 28 14:00:03 2007] [notice] Child 464: Starting thread to listen on port 80.
+[Tue Aug 28 14:00:32 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:00:32 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:00:35 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:00:35 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:00:37 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 14:00:37 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 14:00:37 2007] [notice] Parent: Created child process 3416
+[Tue Aug 28 14:00:42 2007] [notice] Child 3416: Child process is running
+[Tue Aug 28 14:00:42 2007] [notice] Child 3416: Acquired the start mutex.
+[Tue Aug 28 14:00:42 2007] [notice] Child 3416: Starting 250 worker threads.
+[Tue Aug 28 14:00:42 2007] [notice] Child 3416: Starting thread to listen on port 443.
+[Tue Aug 28 14:00:42 2007] [notice] Child 3416: Starting thread to listen on port 80.
+[Tue Aug 28 14:01:44 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:01:44 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:01:46 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:01:46 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:01:48 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 14:01:48 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 14:01:48 2007] [notice] Parent: Created child process 1120
+[Tue Aug 28 14:01:54 2007] [notice] Child 1120: Child process is running
+[Tue Aug 28 14:01:54 2007] [notice] Child 1120: Acquired the start mutex.
+[Tue Aug 28 14:01:54 2007] [notice] Child 1120: Starting 250 worker threads.
+[Tue Aug 28 14:01:54 2007] [notice] Child 1120: Starting thread to listen on port 443.
+[Tue Aug 28 14:01:54 2007] [notice] Child 1120: Starting thread to listen on port 80.
+[Tue Aug 28 14:02:57 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:02:57 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:03:01 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:03:01 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:03:03 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 14:03:03 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 14:03:03 2007] [notice] Parent: Created child process 3492
+[Tue Aug 28 14:03:09 2007] [notice] Child 3492: Child process is running
+[Tue Aug 28 14:03:09 2007] [notice] Child 3492: Acquired the start mutex.
+[Tue Aug 28 14:03:09 2007] [notice] Child 3492: Starting 250 worker threads.
+[Tue Aug 28 14:03:09 2007] [notice] Child 3492: Starting thread to listen on port 443.
+[Tue Aug 28 14:03:09 2007] [notice] Child 3492: Starting thread to listen on port 80.
+[Tue Aug 28 14:04:16 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:04:16 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:04:18 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:04:18 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:04:22 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 14:04:22 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 14:04:22 2007] [notice] Parent: Created child process 3416
+[Tue Aug 28 14:04:25 2007] [notice] Child 3416: Child process is running
+[Tue Aug 28 14:04:25 2007] [notice] Child 3416: Acquired the start mutex.
+[Tue Aug 28 14:04:25 2007] [notice] Child 3416: Starting 250 worker threads.
+[Tue Aug 28 14:04:25 2007] [notice] Child 3416: Starting thread to listen on port 443.
+[Tue Aug 28 14:04:25 2007] [notice] Child 3416: Starting thread to listen on port 80.
+[Tue Aug 28 14:05:20 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:05:20 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:05:22 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:05:22 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:05:24 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 14:05:24 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 14:05:24 2007] [notice] Parent: Created child process 1228
+[Tue Aug 28 14:05:29 2007] [notice] Child 1228: Child process is running
+[Tue Aug 28 14:05:29 2007] [notice] Child 1228: Acquired the start mutex.
+[Tue Aug 28 14:05:29 2007] [notice] Child 1228: Starting 250 worker threads.
+[Tue Aug 28 14:05:29 2007] [notice] Child 1228: Starting thread to listen on port 443.
+[Tue Aug 28 14:05:29 2007] [notice] Child 1228: Starting thread to listen on port 80.
+[Tue Aug 28 14:07:27 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:07:27 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:07:29 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:07:29 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:07:31 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 14:07:31 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 14:07:31 2007] [notice] Parent: Created child process 2408
+[Tue Aug 28 14:07:36 2007] [notice] Child 2408: Child process is running
+[Tue Aug 28 14:07:36 2007] [notice] Child 2408: Acquired the start mutex.
+[Tue Aug 28 14:07:36 2007] [notice] Child 2408: Starting 250 worker threads.
+[Tue Aug 28 14:07:37 2007] [notice] Child 2408: Starting thread to listen on port 443.
+[Tue Aug 28 14:07:37 2007] [notice] Child 2408: Starting thread to listen on port 80.
+[Tue Aug 28 14:10:38 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:10:38 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:10:41 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:10:41 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:10:42 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 14:10:42 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 14:10:42 2007] [notice] Parent: Created child process 2220
+[Tue Aug 28 14:10:50 2007] [notice] Child 2220: Child process is running
+[Tue Aug 28 14:10:50 2007] [notice] Child 2220: Acquired the start mutex.
+[Tue Aug 28 14:10:50 2007] [notice] Child 2220: Starting 250 worker threads.
+[Tue Aug 28 14:10:50 2007] [notice] Child 2220: Starting thread to listen on port 443.
+[Tue Aug 28 14:10:50 2007] [notice] Child 2220: Starting thread to listen on port 80.
+[Tue Aug 28 14:16:40 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:16:40 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:16:41 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:16:41 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:16:43 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 14:16:43 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 14:16:43 2007] [notice] Parent: Created child process 2604
+[Tue Aug 28 14:16:47 2007] [notice] Child 2604: Child process is running
+[Tue Aug 28 14:16:47 2007] [notice] Child 2604: Acquired the start mutex.
+[Tue Aug 28 14:16:47 2007] [notice] Child 2604: Starting 250 worker threads.
+[Tue Aug 28 14:16:47 2007] [notice] Child 2604: Starting thread to listen on port 443.
+[Tue Aug 28 14:16:47 2007] [notice] Child 2604: Starting thread to listen on port 80.
+[Tue Aug 28 14:25:39 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:25:39 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:25:41 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Tue Aug 28 14:25:41 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Tue Aug 28 14:25:43 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Tue Aug 28 14:25:43 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Tue Aug 28 14:25:43 2007] [notice] Parent: Created child process 3168
+[Tue Aug 28 14:25:47 2007] [notice] Child 3168: Child process is running
+[Tue Aug 28 14:25:47 2007] [notice] Child 3168: Acquired the start mutex.
+[Tue Aug 28 14:25:47 2007] [notice] Child 3168: Starting 250 worker threads.
+[Tue Aug 28 14:25:47 2007] [notice] Child 3168: Starting thread to listen on port 443.
+[Tue Aug 28 14:25:47 2007] [notice] Child 3168: Starting thread to listen on port 80.
+[Tue Aug 28 14:26:33 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/phpMyAdmin
+[Tue Aug 28 14:29:10 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/contrib
+[Tue Aug 28 14:29:27 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/xampp, referer: http://localhost/xampp/splash.php
+[Tue Aug 28 14:29:27 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/xampp, referer: http://localhost/xampp/splash.php
+[Tue Aug 28 14:29:28 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/xampp, referer: http://localhost/xampp/splash.php
+[Tue Aug 28 14:29:30 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/xampp
+[Tue Aug 28 14:32:42 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/phpMyAdmin
+[Tue Aug 28 14:32:51 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/xampp
+[Tue Aug 28 14:35:37 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/sendmail
+[Tue Aug 28 14:35:44 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/mail
+[Tue Aug 28 14:35:50 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/xampp
+[Tue Aug 28 14:52:29 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/xampp
+[Tue Aug 28 14:56:47 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/security
+[Tue Aug 28 14:56:52 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/securitye45
+[Tue Aug 28 14:56:57 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/security, referer: http://localhost/security/index.php
+[Tue Aug 28 14:56:57 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/security, referer: http://localhost/security/index.php
+[Tue Aug 28 14:56:57 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/security, referer: http://localhost/security/index.php
+[Tue Aug 28 14:57:00 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/security
+[Tue Aug 28 14:57:02 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/security
+[Wed Aug 29 08:24:57 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Wed Aug 29 08:24:57 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Wed Aug 29 08:24:57 2007] [notice] Parent: Created child process 1152
+[Wed Aug 29 08:25:01 2007] [notice] Child 1152: Child process is running
+[Wed Aug 29 08:25:01 2007] [notice] Child 1152: Acquired the start mutex.
+[Wed Aug 29 08:25:01 2007] [notice] Child 1152: Starting 250 worker threads.
+[Wed Aug 29 08:25:01 2007] [notice] Child 1152: Starting thread to listen on port 443.
+[Wed Aug 29 08:25:01 2007] [notice] Child 1152: Starting thread to listen on port 80.
+[Wed Aug 29 08:31:57 2007] [error] [client 127.0.0.1] Directory index forbidden by Options directive: C:/mas/xampp/webalizer/
+[Wed Aug 29 08:32:02 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/webalyzer
+[Wed Aug 29 08:32:06 2007] [error] [client 127.0.0.1] Directory index forbidden by Options directive: C:/mas/xampp/webalizer/
+[Wed Aug 29 08:32:21 2007] [error] [client 127.0.0.1] Directory index forbidden by Options directive: C:/mas/xampp/webalizer/
+[Wed Aug 29 08:32:44 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/contrib
+Adding password for user administrador
+[Wed Aug 29 08:35:14 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/xampp
+[Wed Aug 29 08:35:21 2007] [error] [client 127.0.0.1] File does not exist: C:/mas/xampp/htdocs/xampp
+Adding password for user administrador
+[Wed Aug 29 08:36:42 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Wed Aug 29 08:36:42 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Wed Aug 29 08:36:43 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Wed Aug 29 08:36:43 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Wed Aug 29 08:36:47 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Wed Aug 29 08:36:47 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Wed Aug 29 08:36:47 2007] [notice] Parent: Created child process 2872
+[Wed Aug 29 08:36:52 2007] [notice] Child 2872: Child process is running
+[Wed Aug 29 08:36:52 2007] [notice] Child 2872: Acquired the start mutex.
+[Wed Aug 29 08:36:52 2007] [notice] Child 2872: Starting 250 worker threads.
+[Wed Aug 29 08:36:52 2007] [notice] Child 2872: Starting thread to listen on port 443.
+[Wed Aug 29 08:36:52 2007] [notice] Child 2872: Starting thread to listen on port 80.
+[Wed Aug 29 08:37:21 2007] [error] [client 127.0.0.1] user admini not found: /security
+[Wed Aug 29 08:37:27 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/contrib
+[Wed Aug 29 08:37:56 2007] [error] [client 127.0.0.1] Directory index forbidden by Options directive: C:/mas/xampp/webalizer/
+[Wed Aug 29 08:38:00 2007] [error] [client 127.0.0.1] user admini not found: /security
+[Wed Aug 29 08:42:20 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Wed Aug 29 08:42:20 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Wed Aug 29 08:42:20 2007] [notice] Parent: Created child process 1672
+[Wed Aug 29 08:42:26 2007] [notice] Child 1672: Child process is running
+[Wed Aug 29 08:42:26 2007] [notice] Child 1672: Acquired the start mutex.
+[Wed Aug 29 08:42:26 2007] [notice] Child 1672: Starting 250 worker threads.
+[Wed Aug 29 08:42:26 2007] [notice] Child 1672: Starting thread to listen on port 443.
+[Wed Aug 29 08:42:26 2007] [notice] Child 1672: Starting thread to listen on port 80.
+[Wed Aug 29 08:43:41 2007] [error] [client 127.0.0.1] client denied by server configuration: C:/mas/xampp/contrib
+[Wed Aug 29 08:44:13 2007] [error] [client 127.0.0.1] user administrador not found: /forbidden
+[Wed Aug 29 08:44:20 2007] [error] [client 127.0.0.1] user dbroot not found: /forbidden
+[Wed Aug 29 09:19:47 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Wed Aug 29 09:19:47 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Wed Aug 29 09:19:47 2007] [notice] Parent: Created child process 3024
+[Wed Aug 29 09:19:51 2007] [notice] Child 3024: Child process is running
+[Wed Aug 29 09:19:51 2007] [notice] Child 3024: Acquired the start mutex.
+[Wed Aug 29 09:19:51 2007] [notice] Child 3024: Starting 250 worker threads.
+[Wed Aug 29 09:19:51 2007] [notice] Child 3024: Starting thread to listen on port 443.
+[Wed Aug 29 09:19:51 2007] [notice] Child 3024: Starting thread to listen on port 80.
+[Wed Aug 29 09:29:47 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Wed Aug 29 09:29:47 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Wed Aug 29 09:29:49 2007] [crit] (22)Invalid argument: unable to replace stderr with error_log
+[Wed Aug 29 09:29:49 2007] [crit] (2)No such file or directory: unable to replace stderr with /dev/null
+[Wed Aug 29 09:29:51 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Wed Aug 29 09:29:51 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Wed Aug 29 09:29:51 2007] [notice] Parent: Created child process 2892
+[Wed Aug 29 09:29:56 2007] [notice] Child 2892: Child process is running
+[Wed Aug 29 09:29:56 2007] [notice] Child 2892: Acquired the start mutex.
+[Wed Aug 29 09:29:56 2007] [notice] Child 2892: Starting 250 worker threads.
+[Wed Aug 29 09:29:56 2007] [notice] Child 2892: Starting thread to listen on port 443.
+[Wed Aug 29 09:29:56 2007] [notice] Child 2892: Starting thread to listen on port 80.
+[Wed Aug 29 09:39:29 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:39:33 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:39:44 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:39:44 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:39:44 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:39:45 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:39:51 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:19 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:20 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:20 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:21 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:25 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:26 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:27 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:28 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:28 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:28 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:29 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:29 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:29 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:30 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:30 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:30 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:30 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:32 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:40:38 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:40:45 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:41:28 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:30 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:30 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:36 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:42 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:43 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:44 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:41:47 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:41:52 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:25 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:29 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:45 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:46 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:46 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:48 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/\xc3\xa7
+[Wed Aug 29 09:42:52 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:53 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:53 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:54 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:42:56 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:43:01 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:03 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:06 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:43:19 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:43:20 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:43:20 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:43:20 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:43:22 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:24 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:25 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:33 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:33 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:34 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:36 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:43:41 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:44 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:43:48 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:43:52 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:44:06 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/pac/iniConf.php' not found or unable to stat
+[Wed Aug 29 09:44:31 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 09:44:45 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat
+[Wed Aug 29 10:07:26 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/login.php' not found or unable to stat, referer: http://localhost/servConf.php
+[Wed Aug 29 10:14:51 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/localhost, referer: http://localhost/servConf.php
+[Wed Aug 29 10:15:13 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/localhost, referer: http://localhost/servConf.php
+[Wed Aug 29 10:15:59 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/localhost, referer: http://localhost/servConf.php
+[Wed Aug 29 10:16:14 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/localhost, referer: http://localhost/servConf.php
+[Wed Aug 29 10:16:39 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/localhost, referer: http://localhost/servConf.php
+[Wed Aug 29 10:16:46 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/localhost, referer: http://localhost/servConf.php
+[Wed Aug 29 10:17:28 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/localhost, referer: http://localhost/servConf.php
+[Wed Aug 29 10:17:57 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/localhost, referer: http://localhost/servConf.php
+[Wed Aug 29 10:31:49 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/pac/html/img/Asvefat.gif/login.php, referer: http://localhost/servConf.php
+[Wed Aug 29 10:32:29 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/pac/html/img/Asvefat.gif/login.php, referer: http://localhost/servConf.php
+[Wed Aug 29 10:32:30 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/pac/html/img/Asvefat.gif/login.php, referer: http://localhost/servConf.php
+[Wed Aug 29 10:57:05 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Wed Aug 29 10:57:05 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Wed Aug 29 10:57:05 2007] [notice] Parent: Created child process 3620
+[Wed Aug 29 10:57:11 2007] [notice] Child 3620: Child process is running
+[Wed Aug 29 10:57:11 2007] [notice] Child 3620: Acquired the start mutex.
+[Wed Aug 29 10:57:11 2007] [notice] Child 3620: Starting 250 worker threads.
+[Wed Aug 29 10:57:11 2007] [notice] Child 3620: Starting thread to listen on port 443.
+[Wed Aug 29 10:57:11 2007] [notice] Child 3620: Starting thread to listen on port 80.
+[Wed Aug 29 10:57:11 2007] [warn] (OS 64)El nombre de red especificado ya no está disponible.  : winnt_accept: Asynchronous AcceptEx failed.
+[Wed Aug 29 10:57:11 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/servConf.php' not found or unable to stat
+[Wed Aug 29 10:57:32 2007] [error] [client 127.0.0.1] script 'C:/xampp/htdocs/servConf.php' not found or unable to stat
+[Wed Aug 29 11:00:29 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/paco, referer: http://localhost/servConf.php
+[Wed Aug 29 12:00:55 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/planificacion, referer: http://localhost/pac/index.php
+[Wed Aug 29 12:01:03 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/planificacion, referer: http://localhost/pac/maestros/me_clientes.php
+[Wed Aug 29 12:01:05 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/admin, referer: http://localhost/pac/maestros/me_clientes.php
+[Wed Aug 29 12:07:21 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/servConf
+[Wed Aug 29 12:11:04 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/html, referer: http://localhost/pac/planificacion/pl_planificaciones.php
+[Wed Aug 29 12:11:06 2007] [error] [client 127.0.0.1] File does not exist: C:/xampp/htdocs/admin, referer: http://localhost/pac/planificacion/pl_planificaciones.php
+[Wed Aug 29 12:51:32 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Wed Aug 29 12:51:32 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Wed Aug 29 12:51:32 2007] [notice] Parent: Created child process 3104
+[Wed Aug 29 12:51:36 2007] [notice] Child 3104: Child process is running
+[Wed Aug 29 12:51:36 2007] [notice] Child 3104: Acquired the start mutex.
+[Wed Aug 29 12:51:36 2007] [notice] Child 3104: Starting 250 worker threads.
+[Wed Aug 29 12:51:36 2007] [notice] Child 3104: Starting thread to listen on port 443.
+[Wed Aug 29 12:51:36 2007] [notice] Child 3104: Starting thread to listen on port 80.
+[Wed Aug 29 14:37:25 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Wed Aug 29 14:37:25 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Wed Aug 29 14:37:25 2007] [notice] Parent: Created child process 1364
+[Wed Aug 29 14:37:29 2007] [notice] Child 1364: Child process is running
+[Wed Aug 29 14:37:29 2007] [notice] Child 1364: Acquired the start mutex.
+[Wed Aug 29 14:37:29 2007] [notice] Child 1364: Starting 250 worker threads.
+[Wed Aug 29 14:37:29 2007] [notice] Child 1364: Starting thread to listen on port 443.
+[Wed Aug 29 14:37:29 2007] [notice] Child 1364: Starting thread to listen on port 80.
+[Wed Aug 29 14:37:29 2007] [warn] (OS 64)El nombre de red especificado ya no está disponible.  : winnt_accept: Asynchronous AcceptEx failed.
+[Wed Aug 29 14:37:29 2007] [warn] (OS 64)El nombre de red especificado ya no está disponible.  : winnt_accept: Asynchronous AcceptEx failed.
+[Wed Aug 29 15:01:08 2007] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 29 15:01:08 2007] [notice] Child 1364: Exit event signaled. Child process is ending.
+[Wed Aug 29 15:01:09 2007] [notice] Child 1364: Released the start mutex
+[Wed Aug 29 15:01:10 2007] [notice] Child 1364: Waiting for 250 worker threads to exit.
+[Wed Aug 29 15:01:10 2007] [notice] Child 1364: All worker threads have exited.
+[Wed Aug 29 15:01:10 2007] [notice] Child 1364: Child process is exiting
+[Wed Aug 29 15:01:10 2007] [notice] Parent: Child process exited successfully.
+Error in my_thread_global_end(): 1 threads didn't exit
+[Thu Aug 30 14:07:44 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Thu Aug 30 14:07:44 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Thu Aug 30 14:07:44 2007] [notice] Parent: Created child process 1464
+[Thu Aug 30 14:07:49 2007] [notice] Child 1464: Child process is running
+[Thu Aug 30 14:07:49 2007] [notice] Child 1464: Acquired the start mutex.
+[Thu Aug 30 14:07:49 2007] [notice] Child 1464: Starting 250 worker threads.
+[Thu Aug 30 14:07:49 2007] [notice] Child 1464: Starting thread to listen on port 443.
+[Thu Aug 30 14:07:49 2007] [notice] Child 1464: Starting thread to listen on port 80.
+[Fri Aug 31 08:51:29 2007] [notice] Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3 configured -- resuming normal operations
+[Fri Aug 31 08:51:29 2007] [notice] Server built: Mar  5 2007 11:23:00
+[Fri Aug 31 08:51:29 2007] [notice] Parent: Created child process 396
+[Fri Aug 31 08:51:33 2007] [notice] Child 396: Child process is running
+[Fri Aug 31 08:51:33 2007] [notice] Child 396: Acquired the start mutex.
+[Fri Aug 31 08:51:33 2007] [notice] Child 396: Starting 250 worker threads.
+[Fri Aug 31 08:51:33 2007] [notice] Child 396: Starting thread to listen on port 443.
+[Fri Aug 31 08:51:33 2007] [notice] Child 396: Starting thread to listen on port 80.
